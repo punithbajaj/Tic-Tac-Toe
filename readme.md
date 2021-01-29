@@ -6,4 +6,4 @@ This is a Simple Tic-Tac-Toe game with following features:
   <li>In Single player mode the Computer never losses</li>
  <ul>
  
- This Game is running live at this <a href="https://punithbajaj.github.io/Tic-Tac-Toe/">site.</a>
+ <p>This Game is running live at this <a href="https://punithbajaj.github.io/Tic-Tac-Toe/">site</a>.</p>
